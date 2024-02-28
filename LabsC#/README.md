@@ -1,2 +1,1 @@
-# Laboratorios en C# 
-# Alayna Vazquez
+# Laboratorios en C#
