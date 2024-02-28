@@ -1,0 +1,15 @@
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\bin\Debug\net6.0\HelloWorld.cs.exe
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\bin\Debug\net6.0\HelloWorld.cs.deps.json
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\bin\Debug\net6.0\HelloWorld.cs.runtimeconfig.json
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\bin\Debug\net6.0\HelloWorld.cs.dll
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\bin\Debug\net6.0\ref\HelloWorld.cs.dll
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\bin\Debug\net6.0\HelloWorld.cs.pdb
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\obj\Debug\net6.0\HelloWorld.cs.csproj.AssemblyReference.cache
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\obj\Debug\net6.0\HelloWorld.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\obj\Debug\net6.0\HelloWorld.cs.AssemblyInfoInputs.cache
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\obj\Debug\net6.0\HelloWorld.cs.AssemblyInfo.cs
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\obj\Debug\net6.0\HelloWorld.cs.csproj.CoreCompileInputs.cache
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\obj\Debug\net6.0\HelloWorld.cs.dll
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\obj\Debug\net6.0\ref\HelloWorld.cs.dll
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\obj\Debug\net6.0\HelloWorld.cs.pdb
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\HelloWorld.cs\obj\Debug\net6.0\HelloWorld.cs.genruntimeconfig.cache
