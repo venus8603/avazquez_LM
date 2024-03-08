@@ -1,0 +1,17 @@
+using System;
+
+class Program{
+    static void Main(){
+        Console.Write("Ingrese un numero entero:");
+        int entero = int.Parse(Console.ReadLine());
+
+        Console.Write("Ingrese un numero flotante:");
+        float flotante = float.Parse(Console.ReadLine());
+
+        Console.Write("Ingrese uncaracter:");
+        char caracter = char.Parse(Console.ReadLine());
+
+        Console.Write("Ingrese una cadena de caracteres:");
+        string cadena = Console.ReadLine();
+    }
+}
