@@ -1,0 +1,27 @@
+int main()
+{
+        int numerador, denominador, resultado;
+
+        cout << "Ingrese el numerador: ";
+        cin >> numerador;
+
+        cout << "Ingrese el numerador: ";
+        cin >> denominador;
+
+        try
+        {
+            if (denominador == 0)
+            {
+                throw "Division por cero no permitida. "
+            }
+            resulta = numerador / denominador;
+
+            cout << "Resultado: " << resultado << endl;
+        }
+        catch (const char* mensaje)
+        {
+            cout << "Exception capturada: " << mensaje << endl;
+        }
+
+        return 0;
+}
