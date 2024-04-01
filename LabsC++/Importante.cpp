@@ -1,23 +1,24 @@
 #include <iostream>
-#include <limits>
 
-int main() 
-{
+using namespace std;
+
+int main() {
     int numero;
-    std::cout << "Entra un numero entero: ";
 
-    if (!(std::cin >> numero)) {
+    cout << "Entra un numero entero: "; //Donde se entra el numero
+    cin >> numero;
 
-        std::cin.clear();
+    try {
+        if (cin.fail())
+        throw ("Error: Debe entrar un numero entero. "); //Saldra solamente si entraste un numero que no es entero
 
-        std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
+       cout << "El numero entero entrado es: " << numero << endl; //Num entero
+}
+catch (const char* mensaje)
+{
+    cout << mensaje << endl;
+}
 
-        std::cout << "Error: Debe entrar un numero entero." << std::endl;
+return 0;
 
-    } else {
-
-        std::cout << "Numero entrado: " << numero << std::endl;
-    }
-
-    return 0;
 }
