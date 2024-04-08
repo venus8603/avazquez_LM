@@ -34,8 +34,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/avazquez2433/Documents/Inter2024/Programacion/VSC/LabsC++/Lab1C++",
-      "program": "c:/Users/avazquez2433/Documents/Inter2024/Programacion/VSC/LabsC++/Lab1C++/build/Debug/outDebug",
+      "cwd": "c:/Users/avazquez2433/Documents/Inter2024/Programacion/VSC/LabsC++",
+      "program": "c:/Users/avazquez2433/Documents/Inter2024/Programacion/VSC/LabsC++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
       "setupCommands": [

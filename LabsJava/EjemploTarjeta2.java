@@ -8,14 +8,14 @@ public class App {
     if (estadoTarjeta ==1)
     {
         //Tarjeta activa
-        System.out.prinIn(x:"Su tarjeta esta activa. Usted puede realizar prestamos. ")
+        System.out.prinIn(x:"Su tarjeta esta activa. Usted puede realizar prestamos. ");
 
     }
 
     if (estadoTarjeta == 2)
     {
         //Tarjeta inactiva
-        System.out.printIn(x:"Su tarjeta esta inactiva. NO se permiten prestamos. ")
+        System.out.printIn(x:"Su tarjeta esta inactiva. NO se permiten prestamos. ");
     }
     }
 }
