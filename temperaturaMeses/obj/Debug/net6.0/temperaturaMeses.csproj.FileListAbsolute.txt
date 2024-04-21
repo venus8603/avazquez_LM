@@ -1,0 +1,15 @@
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\bin\Debug\net6.0\temperaturaMeses.exe
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\bin\Debug\net6.0\temperaturaMeses.deps.json
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\bin\Debug\net6.0\temperaturaMeses.runtimeconfig.json
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\bin\Debug\net6.0\temperaturaMeses.dll
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\bin\Debug\net6.0\ref\temperaturaMeses.dll
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\bin\Debug\net6.0\temperaturaMeses.pdb
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\obj\Debug\net6.0\temperaturaMeses.csproj.AssemblyReference.cache
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\obj\Debug\net6.0\temperaturaMeses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\obj\Debug\net6.0\temperaturaMeses.AssemblyInfoInputs.cache
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\obj\Debug\net6.0\temperaturaMeses.AssemblyInfo.cs
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\obj\Debug\net6.0\temperaturaMeses.csproj.CoreCompileInputs.cache
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\obj\Debug\net6.0\temperaturaMeses.dll
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\obj\Debug\net6.0\ref\temperaturaMeses.dll
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\obj\Debug\net6.0\temperaturaMeses.pdb
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\temperaturaMeses\obj\Debug\net6.0\temperaturaMeses.genruntimeconfig.cache

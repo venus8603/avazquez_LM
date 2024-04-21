@@ -37,7 +37,7 @@
       "cwd": "c:/Users/avazquez2433/Documents/Inter2024/Programacion/VSC/LabsC++",
       "program": "c:/Users/avazquez2433/Documents/Inter2024/Programacion/VSC/LabsC++/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
+      "miDebuggerPath": "gdb",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
