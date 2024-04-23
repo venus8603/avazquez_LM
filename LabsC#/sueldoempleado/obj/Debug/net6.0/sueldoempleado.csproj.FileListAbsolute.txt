@@ -1,0 +1,5 @@
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\sueldoempleado\obj\Debug\net6.0\sueldoempleado.csproj.AssemblyReference.cache
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\sueldoempleado\obj\Debug\net6.0\sueldoempleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\sueldoempleado\obj\Debug\net6.0\sueldoempleado.AssemblyInfoInputs.cache
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\sueldoempleado\obj\Debug\net6.0\sueldoempleado.AssemblyInfo.cs
+C:\Users\avazquez2433\Documents\Inter2024\Programacion\VSC\LabsC#\sueldoempleado\obj\Debug\net6.0\sueldoempleado.csproj.CoreCompileInputs.cache

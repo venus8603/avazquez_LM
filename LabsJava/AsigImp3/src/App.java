@@ -15,7 +15,7 @@ public class App {
         double totalPagoOvertime = 0;
         double totalHorasOvertime = 0;
 
-        System.out.print("Ingrese el pago por hora: $");
+        System.out.print("Ingrese el pago por hora: $"); // Pago por hora
         pagoHora = scanner.nextDouble();
 
         while (i < 3) {
@@ -29,7 +29,7 @@ public class App {
 
             horasTrabajadas = scanner.nextDouble();
 
-            if (horasTrabajadas > 40) {
+            if (horasTrabajadas > 40) {  // Calculo sueldo overtime
                 overtimeHoras = horasTrabajadas - 40;
                 overtimeSueldo = overtimeHoras * (pagoHora * 2);
                 sueldoBruto = (40 * pagoHora) + overtimeSueldo;
@@ -37,6 +37,7 @@ public class App {
                 sueldoBruto = horasTrabajadas * pagoHora;
             }
 
+            // Calculo descuento nomina
             descuento = sueldoBruto * 0.07;
             sueldoFinal = sueldoBruto - descuento;
 
@@ -44,9 +45,9 @@ public class App {
             System.out.println("Overtime hecho: " + overtimeHoras);
             System.out.println("Overtime Pagado: $" + overtimeSueldo + "\n");
 
-            totalPagoNomina += sueldoFinal;
-            totalPagoOvertime += overtimeSueldo;
-            totalHorasOvertime += overtimeHoras;
+            totalPagoNomina += sueldoFinal; // suma pago 
+            totalPagoOvertime += overtimeSueldo; // suma pago overtime
+            totalHorasOvertime += overtimeHoras; // suma horas overtime
         }
 
         System.out.println("---------------------");

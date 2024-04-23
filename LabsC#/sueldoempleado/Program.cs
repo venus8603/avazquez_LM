@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 class Program
 {
@@ -17,7 +17,7 @@ class Program
         double totalPagoOvetime = 0;
         double totalHorasOvertime = 0;
 
-        Console.Write("Ingrese el pago por hora: $");
+        Console.Write("Ingrese el pago por hora: $"); 
         pagoHora = Convert.ToDouble(Console.ReadLine());
 
         do
@@ -30,28 +30,28 @@ class Program
             Console.Wrire("Horas trabajadas de el empleado" + 1 + "-");
             horasTrabajadas = Convert.ToDouble(Console.ReadLine());
 
-            if (horasTrabajadas > 40)
+            if (horasTrabajadas > 40) // Calculo sueldo overtime
             {
                 overtimeHoras = horasTrabajadas - 40;
                 overtimeSueldo = overtimeHoras * (pagoHora * 2);
                 sueldoBruto = (40 * pagoHora) + overtimeSueldo;
 
             }
-            else
+            else // Calculo sueldo no overtime
             {
                 sueldoBruto = horasTrabajadas * pagoHora
             }
 
             descuento = sueldoBruto * 0.07;
-            sueldoFinal = sueldoBruto - descuento;
+            sueldoFinal = sueldoBruto - descuento;  // Calculo de la nomina
 
             Console.Write("Sueldo: $" + sueldoFinal);
             Console.Write("Overtime hecho: "+ overtimeHoras);
             Console.Write("Overtime Pagado: $"+ overtimeSueldo + "\n");
 
-            totalPagoNomina += sueldoFinal;
-            totalPagoOvetime += overtimeSueldo;
-            totalHorasOvertime += overtimeHoras;
+            totalPagoNomina += sueldoFinal; // Suma pago empleados
+            totalPagoOvetime += overtimeSueldo; // Suma pago overtime
+            totalHorasOvertime += overtimeHoras; // Suma horas overtime
         }
 
         while(i < 3);
